@@ -1,0 +1,5 @@
+# Runtime: standard library only, no external packages required.
+
+# Optional development tools (install if you want linting/testing)
+pytest
+flake8
